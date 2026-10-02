@@ -1,0 +1,11 @@
+:HL["/website-pt-pages/_next/static/chunks/2m_f_tawbd13n.css","style"]
+:HL["/website-pt-pages/_next/static/chunks/21ccvakhrr9rc.css","style"]
+:HL["/website-pt-pages/_next/static/chunks/2njn5qmf7p4vr.css","style"]
+:HL["/website-pt-pages/_next/static/media/03fc1b4a8d284b5e-s.p.0wiir8udbzjvx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/website-pt-pages/_next/static/media/21ca8f3f56c22ca2-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/website-pt-pages/_next/static/media/4ae66b896b591e96-s.p.0_kz_z3o_slvt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/website-pt-pages/_next/static/media/57215795b8570f5c-s.p.2rixgazldzomk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/website-pt-pages/_next/static/media/68757d6cddeff913-s.p.1i-sca43-qwng.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/website-pt-pages/_next/static/media/effe91970fc4db64-s.p.0oace-s_gkfks.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/website-pt-pages/renders/extinguisher-pqs.webp","image",{"imageSrcSet":"/website-pt-pages/renders/extinguisher-pqs.webp 1x, /website-pt-pages/renders/extinguisher-pqs@2x.webp 2x"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"servicios","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"extintores","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Mz80xk3yEvULOJTzyBfPi"}

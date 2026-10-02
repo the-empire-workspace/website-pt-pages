@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,80896,e=>{"use strict";e.s(["normalizeSpaces",0,e=>e.replace(/\s+/g," ").trim()])},80293,e=>{"use strict";var s=e.i(16833);e.s(["useToday",()=>s.default])}]);
